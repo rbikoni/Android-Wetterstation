@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HS-Worms Wetterstation</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="action_request">Aktualisieren</string>
+    <string name="tv_label">Aktuelle Informationen</string>
+</resources>
